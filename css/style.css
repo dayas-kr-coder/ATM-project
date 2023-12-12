@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --primary-color: #4891ff;
+  --light-color: #f4f4f6;
+  --dark-color: #111;
+  --dark-grey: #333;
+  --light-grey: #888888;
+  --profile-size: 50px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
